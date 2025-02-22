@@ -21,8 +21,9 @@ Foodies is a food delivery web app that allows customers to browse food items, a
 - **Payment Integration**: Stripe
 - **Authentication**: JWT (JSON web Tokens)
 
-## Check out
+## Check out Foodies
  [Foodies](https://foodies-pkvw.onrender.com)
- <br>
- </hr>
+
+
+## Check out Foodies Admin.
  [Foodies-admin](https://foodies-admin-bq4k.onrender.com)
