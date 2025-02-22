@@ -10,7 +10,7 @@ import Home from './pages/Home/Home'
 
 const App = () => {
 
-  const url ="http://localhost:4000";
+  const url ="https://foodies-backend-d9sc.onrender.com";
 
   return (
     <div>
