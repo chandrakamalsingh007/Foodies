@@ -1,0 +1,29 @@
+@keyframes fadeSlideIn {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes tomatoColors {
+    0% { color: #E63946; } /* Classic Red */
+    20% { color: #F4D35E; } /* Yellow */
+    40% { color: #EE964B; } /* Orange */
+    60% { color: #4CAF50; } /* Green */
+    80% { color: #6A4C3B; } /* Brown */
+    100% { color: #E63946; } /* Back to Red */
+  }
+  
+  .home h3 {
+    margin-top: 100px;
+    padding: 10px;
+    font-size: 90px;
+    font-weight: bold;
+    text-align: center;
+    animation: fadeSlideIn 1s ease-in-out, tomatoColors 5s infinite alternate;
+  }
+  
