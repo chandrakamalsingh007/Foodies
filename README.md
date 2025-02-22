@@ -23,4 +23,6 @@ Foodies is a food delivery web app that allows customers to browse food items, a
 
 ## Check out
  [Foodies](https://foodies-pkvw.onrender.com)
+ <br>
+ </hr>
  [Foodies-admin](https://foodies-admin-bq4k.onrender.com)
