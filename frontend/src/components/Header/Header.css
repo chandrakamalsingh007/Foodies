@@ -1,9 +1,10 @@
 .header{
     height: 34vw;
     margin: 30px auto;
-    background: url('/header_img.png') no-repeat;
-    background-size: contain;
+    background: url('../../assets/frontend_assets/NaaYaaFoods.jpg') no-repeat;
+    background-size: cover;
     position: relative;
+    border-radius: 5px;
 }
 
 .header-contents{
@@ -13,7 +14,7 @@
     align-items: start;
     gap: 1.5vw;
     max-width: 50%;
-    bottom:10% ;
+    bottom:2%;
     left: 6vw;
     animation: fadeIn 3s;
 
@@ -24,6 +25,7 @@
     font-weight: 500;
     color: white;
     font-size: max(4.5vw,22px);
+    margin-bottom: 50px;
 }
 
 .header-contents p{
