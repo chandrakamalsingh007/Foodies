@@ -56,6 +56,10 @@
     .header-contents p{
         display: none;
     }
+    .header-contents h2{
+        margin-bottom: 20px;
+        font-size:max(4.5vw,22px);
+    }
     .header-contents button{
         padding: 2vw 4vw;
     }
