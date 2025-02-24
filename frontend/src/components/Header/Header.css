@@ -58,10 +58,10 @@
     }
     .header-contents h2{
         margin-bottom: 20px;
-        font-size:max(4.5vw,22px);
+        font-size:max(4.5vw,20px);
     }
     .header-contents button{
-        padding: 2vw 4vw;
+        padding: 1.5vw 3.5vw;
     }
 }
 
